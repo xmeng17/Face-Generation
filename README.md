@@ -1,2 +1,2 @@
 # Face-Generation
-See .ipython Notebook for details
+See .ipynb (Jupyter Notebook) for details
